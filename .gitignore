@@ -8,3 +8,4 @@ __pycache__/
 .vscode/
 scripts/who_scan.py
 scripts/probe_sites.py
+scripts/prepublish_scan.py

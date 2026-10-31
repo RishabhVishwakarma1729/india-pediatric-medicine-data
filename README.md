@@ -25,7 +25,7 @@ Python 3.10+, `requests`, `pandas`, `openpyxl`, `pypdf`. Run from `scripts/` in 
 1. `discover_urls.py`, `discover_urls2.py`, `discover_1mg_rest.py`: read public sitemaps.
 2. `build_master.py`, `select_crawl_set.py` (`cap_netmeds.py` for Netmeds): choose pages.
 3. `fetch_products.py [site ...]`: fetch product pages into `raw_pages/products_*.jsonl`.
-4. `nlem_scan.py` (needs the NLEM 2022 PDF in `raw_pages/evidence_docs/`), `build_evidence.py`, `extract_pharmarack_rows.py`.
+4. `nlem_scan.py` (needs the NLEM 2022 PDF in `raw_pages/evidence_docs/`), `build_evidence.py`, `extract_pharmarack_rows.py` (needs the BOBCAPS 13-Aug-2026 report PDF, link in the script, saved as `raw_pages/evidence_docs/BOBCAPS_Pharma_Update_13Aug2026.pdf`).
 5. `prepare_dataset.py`, `build_workbook.py`, `validate_workbook.py`.
 
 Large or third-party files (raw HTML samples, the NLEM PDF, full sitemap URL lists) are not in this repo.

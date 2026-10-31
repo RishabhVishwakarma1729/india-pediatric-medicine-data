@@ -6,7 +6,8 @@ import sys
 from pypdf import PdfReader
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
-PDF = r"C:\Users\RISHABH\.claude\projects\c--Users-RISHABH-Desktop\fd1e8231-44b4-4015-9320-c6f47b2326e6\tool-results\webfetch-1793439858854-5steps.pdf"
+# Download first: https://www.barodaetrade.com/Reports/Pharmaceuticals-SectorUpdate13Aug26-Research.pdf
+PDF = r"C:\Users\RISHABH\Desktop\Pediatric_Medicine_India\raw_pages\evidence_docs\BOBCAPS_Pharma_Update_13Aug2026.pdf"
 OUT = r"C:\Users\RISHABH\Desktop\Pediatric_Medicine_India\raw_pages\pharmarack_brand_rows.csv"
 TARGETS = ["CALPOL", "CROCIN", "DOLO", "MEFTAL", "AUGMENTIN", "CLAVAM", "TAXIM O", "TAXIM", "ZIFI", "AZEE", "AZITHRAL", "ASCORIL", "ALEX", "GRILINCTUS", "BENADRYL", "CETZINE", "ONDEM", "EMESET", "DOMSTAL",
            "ELECTRAL", "ECONORM", "DUPHALAC", "ZENTEL", "ASTHALIN", "PRACTIN", "MONTAIR", "LEVOCET", "XYZAL", "CEFTUM", "ZOCEF", "CEFIX", "CEPODEM", "DOXCEF", "MOXIKIND", "MEGACLAV", "NOVAMOX", "ZINCOVIT", "SPORLAC", "BIFILAC", "LOOZ", "CREMAFFIN", "CYCLOPAM", "TUSQ", "COREX", "CHERICOF", "MONTEK", "ALERID", "OKACET", "T BACT"]
