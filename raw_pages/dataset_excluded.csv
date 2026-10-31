@@ -1,0 +1,196 @@
+﻿site,url,name,reason
+1mg,https://www.1mg.com/drugs/econorm-sachet-327828,,fetch status 404
+1mg,https://www.1mg.com/drugs/ascoril-c-syrup-1000725,,fetch status 404
+1mg,https://www.1mg.com/drugs/bandystar-pup-pet-oral-suspension-870500,Bandystar Pup Pet Oral Suspension,veterinary (pet) product - not human pediatric
+1mg,https://www.1mg.com/drugs/grilinctus-syrup-1004513,,fetch status 404
+1mg,https://www.1mg.com/otc/bandykind-pet-oral-suspension-otc933682,Bandykind Pet Oral Suspension,veterinary (pet) product - not human pediatric
+1mg,https://www.1mg.com/otc/bandykind-plus-pet-oral-solution-otc933693,Bandykind Plus Pet Oral Solution,veterinary (pet) product - not human pediatric
+1mg,https://www.1mg.com/otc/bandykind-plus-pet-oral-solution-otc933692,Bandykind Plus Pet Oral Solution,veterinary (pet) product - not human pediatric
+1mg,https://www.1mg.com/otc/bandykind-plus-pet-oral-solution-otc933698,Bandykind Plus Pet Oral Solution,veterinary (pet) product - not human pediatric
+Apollo,https://www.apollopharmacy.in/medicine/alex-kidzo-syrup-60ml,Alex Kidzo Syrup,implausible MRP shown on page (Rs 8000 for a liquid/sachet product) - likely a listing error on the platform
+Apollo,https://www.apollopharmacy.in/otc/enerzal-orange-sachet-100gm,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/sporlac-plus-sachets-1gm,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/zincovit-cl-syrup-200ml,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/zincovit-syrup-100ml,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/bifilac-zn-sachet-1g,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/enerzal-apple-sachet-50g,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/sporlac-gg-6-b-cfu-granules-0-75g,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/enerzal-zero-orange-sachet-5-gm,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/z-d-syrup-100-ml,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/enerzal-orange-flavour-sachet-75-gm,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/enerzal-lime-flavour-sachet-75-gm,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/electral-blackcurrant-blast-flav-powder-sachet-4-40g,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/electral-assorted-5-flavs-powder-sachet-4-40g,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/electral-fresh-mango-flav-powder-sachet-4-40g,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/electral-shikanji-lime-flav-powder-sachet-4-40g,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/electral-lychee-burst-flav-powder-sachet-4-40g,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/dexorange-plus-syrup-200ml,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/z-d-multi-oral-suspension-200-ml,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/electral-ors-pinacolada-punch-powder-sachet-21-8-gm,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/electral-ors-lychee-burst-flavour-powder-sachet-21-8-gm,,no product name parsed
+Apollo,https://www.apollopharmacy.in/otc/chericof-natural-syrup-100-ml,,no product name parsed
+Netmeds,https://www.netmeds.com/product/chericof-12-cherry-flavour-oral-suspension-60ml-lui3ut-8273401,CHERICOF 12 CHERRY FLAVOUR Oral Suspension 60ml,price valid-until 2024-05-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/zifi-readymix-100-oral-suspension-30ml-lui391-8259656,Zifi Readymix 100 Oral Suspension 30ml,price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/febrex-125mg-suspension-60ml-lui1z0-8232155,Febrex 125mg Suspension 60ml,price valid-until 2024-04-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/xyzal-syrup-60ml-lui77y-8339200,Xyzal Syrup 60ml,price valid-until 2024-09-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/bandy-syrup-10ml-m1v5oy-8521532,Bandy Syrup 10ml,price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/novamox-125-oral-suspension-60ml-lxx4jf-8476729,NOVAMOX 125 Oral Suspension 60ml,price valid-until 2026-09-02 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/febrex-250mg-suspension-60ml-lufuow-7527129,Febrex 250mg Suspension 60ml,price valid-until 2024-06-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/zifi-cv-100mg-dry-syrup-30ml-lui7xq-8352517,Zifi CV 100mg Dry Syrup 30ml,price valid-until 2023-12-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/alex-bt-syrup-60ml-m1orop-8505408,Alex BT Syrup 60ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/benadryl-dry-cough-active-relief-syrup-50ml-mejjyc-11792503,BENADRYL DRY COUGH ACTIVE RELIEF SYRUP 50ML,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/zocef-dry-syrup-30ml-lufu0q-7509148,Zocef Dry Syrup 30ml,price valid-until 2023-06-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/corex-t-cough-syrup-50ml-lugdpu-7653236,Corex T Cough Syrup 50ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/duphalac-lemon-flavour-oral-solution-450ml-lufu6y-7513170,Duphalac Lemon Flavour Oral Solution 450ml,price valid-until 2024-10-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/chericof-ls-junior-syrup-60ml-lui1za-8233300,CHERICOF LS JUNIOR Syrup 60ml,price valid-until 2024-04-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/duphalac-oral-solution-250ml-n-m940a9-10055344,Duphalac Oral Solution 250ml (N),price valid-until 2026-08-10 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/pacimol-mf-250mg-suspension-60ml-lui6bo-8322165,Pacimol MF 250mg Suspension 60ml,price valid-until 2025-01-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/sporlac-qik-sachet-1gm-m1xksj-8535033,Sporlac Qik Sachet 1gm,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/dolo-250mg-suspension-60ml-luftuk-7504593,Dolo 250mg Suspension 60ml,price valid-until 2024-05-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/bandy-plus-suspension-10ml-lui7kx-8345906,Bandy Plus Suspension 10ml,price valid-until 2024-11-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/ibugesic-plus-strawberry-flavour-suspension-100ml-lui4wc-8294169,Ibugesic plus Strawberry Flavour Suspension 100ml,price valid-until 2023-12-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/bifilac-zn-1-sachet-1s-lufuy1-7520587,BIFILAC ZN 1 Sachet 1&#39;s (N),price valid-until 2026-07-03 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/bandykind-plus-vet-suspension-30ml-mp0uqz-15340580,BANDYKIND PLUS (VET) Suspension 30ml,veterinary (pet) product - not human pediatric
+Netmeds,https://www.netmeds.com/product/cremaffin-plus-syrup-150ml-m1vwej-8526882,Cremaffin Plus Syrup 150ml,price valid-until 2026-08-10 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/cremaffin-plus-sugar-free-refreshing-flavour-syrup-225ml-lui7zb-8353232,Cremaffin Plus Sugar Free Refreshing Flavour Syrup 225ml,price valid-until 2024-07-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/zentel-suspension-10ml-lui7n9-8347312,ZENTEL Suspension 10ml,price valid-until 2025-11-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/cepodem-xp-50mg-dry-syrup-30ml-lui4po-8290659,Cepodem XP 50mg Dry Syrup 30ml,price valid-until 2023-04-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/bifilac-dry-syrup-50ml-lui2wr-8252169,Bifilac Dry Syrup 50ml,price valid-until 2023-11-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/enerzal-lime-sachet-50g-m1vyoe-8527426,ENERZAL LIME SACHET 50G,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/zifi-readymix-50mg-oral-suspension-60ml-lui7mp-8346886,ZIFI READYMIX 50mg Oral Suspension 60ml,price valid-until 2023-06-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/pacimol-ds-suspension-60ml-lufuhn-7519619,Pacimol DS Suspension 60ml,price valid-until 2024-04-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/duphalac-lemon-flavour-oral-solution-150ml-lui4f6-8284525,Duphalac Lemon Flavour Oral Solution 150ml,price valid-until 2024-09-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/sporlac-banana-flavour-powder-sachet-4x1gm-lui7x5-8352451,Sporlac Banana Flavour Powder Sachet 4X1gm,price valid-until 2024-08-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/ondem-syrup-30ml-luh9hh-7959361,Ondem Syrup 30ml,price valid-until 2025-02-28 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/crocin-ds-mixed-fruit-flavour-240-suspension-100ml-lufu9v-7510828,CROCIN DS MIXED FRUIT FLAVOUR 240 Suspension 100ml,price valid-until 2024-10-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/doxcef-50mg-dry-syrup-30ml-lui5nj-8309256,Doxcef 50mg Dry Syrup 30ml,price valid-until 2023-06-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/brufen-junior-oral-100mg-orange-flavour-suspension-60ml-lui76o-8338690,Brufen Junior Oral Suspension Orange Flavour 60ml,price valid-until 2025-10-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/bactoclav-ds-457-dry-syrup-60ml-lui5vo-8314664,BACTOCLAV DS 457 Dry Syrup 60ml,price valid-until 2023-11-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/clavam-dry-syrup-30ml-se-mogwr0-15108278,CLAVAM Dry Syrup 30ml (se),price valid-until 2026-10-13 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/novamox-rediuse-100mg-drops-5ml-m1rgp3-8514750,Novamox Rediuse 100mg Drops 5ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/ibugesic-suspension-50ml-m1v3v2-8521165,Ibugesic Suspension 50ml,price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/alex-junior-ds-sugar-free-syrup-60ml-lui4y3-8301950,ALEX JUNIOR DS SUGAR FREE Syrup 60ml,price valid-until 2023-12-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/tusq-x-plus-sf-syrup-100ml-lui6fz-8324407,Tusq X Plus SF Syrup 100ml (N),price valid-until 2023-12-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/cremaffin-mint-syrup-200ml-m1xwhj-8536095,Cremaffin Mint Syrup 200ml,price valid-until 2026-08-10 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/azee-dry-syrup-75ml-m1zx2s-8544398,Azee Dry Syrup 7.5ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/aziwok-stat-200mg-syrup-60ml-m1vjmu-8524110,Aziwok Stat 200mg Syrup 60ml,price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/doxcef-50mg-syrup-15ml-m1vxli-8527164,Doxcef 50mg Syrup 15ml,price valid-until 2026-08-10 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/augmentin-dds-syrup-30ml-lxelgb-8464636,Augmentin Dds Syrup 30ml,price valid-until 2023-07-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/montair-lc-kid-syrup-60ml-lui39n-8259970,Montair LC Kid Syrup 60ml,price valid-until 2024-10-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/bactoclav-ds-457mg-syrup-30ml-lui3n4-8266703,Bactoclav DS 457 Dry Syrup 30ml,price valid-until 2023-12-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/ascoril-ls-junior-syrup-60ml-m1oyk6-8507667,Ascoril LS Junior Syrup 60ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/megaclav-ds-dry-syrup-30ml-m1sdjx-8515392,Megaclav DS Dry Syrup 30ml,price valid-until 2026-08-10 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/montair-granules-05gm-m1zj3d-8543563,Montair Granules 0.5gm,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/augmentin-duo-oral-suspension-30ml-lui7b5-8340777,Augmentin Duo Oral Suspension 30ml,price valid-until 2024-03-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/moxikind-cv-dry-syrup-30ml-lui7lb-8346309,Moxikind CV Dry Syrup 30ml,price valid-until 2024-02-29 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/bifilac-sachet-05gm-lxzjrc-8477971,BIFILAC Sachet 0.5gm,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/zincovit-syrup-200ml-lui5s9-8311861,Zincovit Syrup 200ml,price valid-until 2023-06-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/asthalin-dx-syrup-100ml-lufuuq-7519288,Asthalin DX Syrup 100ml,price valid-until 2023-11-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/ascoril-flu-p-syrup-60ml-m1xgi0-8534664,Ascoril Flu P Syrup 60ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/calpol-125-suspension-60ml-lui5m1-8308150,CALPOL 125 Suspension 60ml,price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/clavam-dry-syrup-30ml-lui1z5-8232425,Clavam Dry Syrup 30ml,price valid-until 2024-08-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/alerid-d-syrup-100ml-m1ozp9-8508157,Alerid D Syrup 100ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/benadryl-dr-dry-cough-active-relief-syrup-50ml-lui273-8237568,Benadryl DR Dry Cough Active Relief Syrup 50ml,price valid-until 2024-05-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/calpol-plus-suspension-60ml-lxeljh-8465053,Calpol Plus Suspension 60ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/grilinctus-bm-syrup-100ml-lui6uc-8332073,Grilinctus BM Syrup 100ml,price valid-until 2024-06-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/new-theo-asthalin-syrup-100ml-n-m41dip-8754038,NEW Theo Asthalin Syrup 100ml (N),price valid-until 2026-07-03 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/levocet-syrup-30ml-m1tqf1-8517171,Levocet Syrup 30ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/benadryl-dr-dry-cough-active-relief-syrup-100ml-lui667-8318894,Benadryl DR Dry Cough Active Relief Syrup 100ml,price valid-until 2024-11-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/tusq-dx-syrup-60ml-m1ox30-8507233,Tusq DX Syrup 60ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/looz-fibre-granule-90gm-lui6b4-8321567,Looz Fibre Granule 90gm,price valid-until 2024-02-29 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/enerzal-orange-flavour-sachet-50gm-lui5hi-8305896,Enerzal Energy and Electrolyte Powder - Orange 50 g,price valid-until 2024-09-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/cefixiv-dry-syrup-30ml-m9mhcz-10212009,CEFIXIV Dry Syrup 30ml,price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/dexorange-orange-flavoured-syrup-200ml-lui7b3-8340775,Dexorange Orange Flavoured Syrup 200ml,price valid-until 2024-08-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/alerid-syrup-60ml-lui3o7-8267668,Alerid Syrup 60ml,price valid-until 2025-06-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/megaclav-dry-syrup-30ml-m1uiad-8518614,Megaclav Dry Syrup 30ml,price valid-until 2026-08-10 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/taxim-o-juicy-orange-and-lemon-flavour-dry-syrup-60ml-lui6d2-8322679,TAXIM O JUICY ORANGE AND LEMON FLAVOUR Dry Syrup 60ml,price valid-until 2024-04-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/grilinctus-pead-syrup-60ml-lui634-8317210,Grilinctus Pead Syrup 60ml,price valid-until 2023-03-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/grilinctus-syrup-100ml-ly8way-8479090,GRILINCTUS Syrup 100ml,price valid-until 2023-09-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/loozon-oral-solution-200ml-m27jlm-8563005,LOOZON Oral Solution 200ml,price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/electral-powder-sachet-30x44gm-m1oxh4-8507411,Electral Powder Sachet 30X4.4Gm,price valid-until 2025-08-05 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/corex-ls-junior-mixed-fruit-flavour-cough-syrup-60ml-lui1v0-8228899,COREX LS Junior Mixed Fruit Flavour Cough Syrup 60ml,price valid-until 2024-05-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/taxim-o-juicy-orange-and-lemon-flavour-dry-syrup-30ml-lui4jl-8286610,TAXIM O JUICY ORANGE AND LEMON FLAVOUR Dry Syrup 30ml,price valid-until 2024-07-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/cepodem-xp-100mg-dry-syrup-30ml-lui2fi-8242319,Cepodem XP 100mg Dry Syrup 30ml (N),price valid-until 2023-08-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/okacet-l-syrup-30ml-m1ou8e-8506207,Okacet L Syrup 30ml,price valid-until 2026-05-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/azee-xl-200mg-peppermint-flavour-dry-syrup-30ml-lui6mo-8327823,Azee XL 200mg Peppermint Flavour Dry Syrup 30ml,price valid-until 2025-03-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/looz-syrup-150ml-n-m940ax-10055385,Looz Syrup 150ml (N),price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/clavam-bid-syrup-30ml-se-moi5rd-15115426,CLAVAM BID Syrup 30ml (se),price valid-until 2026-10-13 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/electral-apple-flavour-suspension-200ml-n-m9sef4-10240984,ELECTRAL APPLE FLAVOUR Suspension 200ml (N),price valid-until 2026-07-03 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/montair-4mg-granules-sachet-7x05gm-m1vnn6-8524874,Montair 4mg Granules Sachet 7X0.5gm,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/electral-powder-orange-flavour-440gm-sachet-1s-lui53v-8299299,ELECTRAL POWDER ORANGE FLAVOUR 4.40gm Sachet 1&#39;s,price valid-until 2024-08-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/levocetzine-syrup-30ml-m1vyjp-8527395,Levocetzine Syrup 30ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/azithral-100mg-syrup-40ml-m1v3ua-8521162,Azithral 100mg Syrup 40ml,price valid-until 2026-08-10 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/cefakindp-50mg-dry-syrup-30ml-m1tlwn-8516939,Cefakindp 50mg Dry Syrup 30ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/emeset-2-mg-strawberry-flavour-syrup-30ml-lui5c5-8302316,EMESET 2 MG STRAWBERRY FLAVOUR Syrup 30ml,price valid-until 2024-02-29 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/moxikind-cv-forte-dry-syrup-30ml-lufuzn-7532560,Moxikind CV Forte Dry Syrup 30ml,price valid-until 2024-01-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/azithral-stat-suspension-60ml-m1vc0k-8522715,Azithral Stat Suspension 60ml,price valid-until 2026-08-10 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/mahacef-100mg-sachet-1gm-m1p5l3-8510874,Mahacef 100mg Sachet 1gm,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/augmentin-es-suspension-50ml-lui7ol-8347769,AUGMENTIN ES Suspension 50ml,price valid-until 2024-07-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/tusq-x-syrup-60ml-m1ptl5-8512410,Tusq X Syrup 60ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/azee-xl-peppermint-flavour-100mg-dry-syrup-30ml-lui66e-8319073,AZEE XL PEPPERMINT FLAVOUR 100mg Dry Syrup 30ml,price valid-until 2024-06-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/corex-dx-syrup-100ml-lui5oe-8309760,Corex DX Syrup 100ml,price valid-until 2024-11-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/econorm-765mg-sachet-1s-m1uekx-8518426,Econorm 765mg Sachet 1&#39;s,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/azithral-jr-40mg-oral-suspension-75ml-lufuu0-7526046,Azithral JR 40mg Oral Suspension 7.5ml,price valid-until 2023-11-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/xyzal-m-suspension-60ml-lui444-8277337,Xyzal M Suspension 60ml,price valid-until 2024-01-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/sporlac-dry-syrup-50ml-m1r93m-8514644,Sporlac Dry Syrup 50ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/levocet-m-425mg-syrup-60ml-lui5r2-8310378,Levocet M 4&#x2F;2.5mg Syrup 60ml,price valid-until 2023-10-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/ventorlin-syrup-100ml-lxelj1-8464972,Ventorlin Syrup 100ml,price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/practin-en-syrup-200ml-lui7bd-8341074,Practin EN Syrup 200ml,price valid-until 2024-07-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/cefix-100mg-dry-syrup-30ml-m1z45x-8542358,Cefix 100mg Dry Syrup 30ml,price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/alerid-syrup-30ml-lui7xt-8352545,Alerid Syrup 30ml,price valid-until 2024-07-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/emeset-juicy-lemon-flavour-syrup-30ml-lui3li-8266255,Emeset Juicy Lemon Flavour Syrup 30ml,price valid-until 2024-11-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/pacimol-suspension-60ml-lymq7r-8488072,Pacimol Suspension 60ml,price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/meftal-spas-suspension-60ml-lui5p3-8311259,MEFTAL SPAS Suspension 60ml,price valid-until 2024-02-29 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/zinconia-syrup-100ml-lui48r-8292006,Zinconia Syrup 100ml,price valid-until 2024-10-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/zentel-200mg-suspension-50ml-lxeljf-8465020,Zentel 200mg Suspension 50ml,price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/cyclopam-suspension-30ml-lui2o9-8246573,Cyclopam Suspension 30ml,price valid-until 2024-12-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/calpol-250-strawberry-flavour-suspension-60ml-lui5ru-8312553,Calpol 250 Strawberry Flavour Suspension 60ml,price valid-until 2024-10-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/practin-syrup-200ml-luftyj-7503525,Practin Syrup 200ml,price valid-until 2023-11-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/zincovit-cl-syrup-200ml-lui4re-8291154,Zincovit CL Syrup 200ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/asthalin-syrup-100ml-lui79u-8340195,Asthalin Syrup 100ml,price valid-until 2024-08-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/zentel-syrup-10ml-n-lxeljg-8464994,Zentel Syrup 10ml (N),price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/zinconia-syrup-50ml-m1wq6b-8531268,Zinconia Syrup 50ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/cyclopam-suspension-60ml-lui4r5-8290952,Cyclopam Suspension 60ml,price valid-until 2024-12-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/cetzine-syrup-60ml-lui4ij-8285897,Cetzine Syrup 60ml,price valid-until 2025-01-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/crocin-ds-suspension-60ml-n-lxeliz-8465024,Crocin DS Suspension 60ml (N),price valid-until 2026-07-03 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/xyzal-a-syrup-60ml-m1vkk7-8524272,Xyzal A Syrup 60ml,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/okacet-syrup-30ml-lufujf-7521590,Okacet Syrup 30ml,price valid-until 2024-08-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/cyclopam-new-fast-relief-suspension-30ml-lxzfa0-8477375,CYCLOPAM NEW FAST RELIEF Suspension 30ml,price valid-until 2026-09-25 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/dolo-125mg-suspension-60ml-m1olr0-8503574,Dolo 125mg Suspension 60ml,price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/ondem-of-4mg-sachet-6s-m1w3yf-8528502,Ondem OF 4mg Sachet 6&#39;S,price valid-until 2025-12-21 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/meftal-p-delicious-mango-flavour-suspension-60ml-luhapc-7989893,Meftal P Delicious Mango Flavour Suspension 60ml,price valid-until 2025-02-28 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/ceftum-125mg-oral-suspension-50ml-lxelj9-8464987,Ceftum 125mg Oral Suspension 50ml,price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/cefakind-dry-syrup-30ml-lui2a3-8239372,Cefakind Dry Syrup 30ml,price valid-until 2023-06-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/montek-lc-kid-syrup-60ml-lui7u3-8350680,Montek LC Kid Syrup 60ml,price valid-until 2024-10-31 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/econorm-250mg-sachet-1s-luftu0-7501996,ECONORM 250mg Sachet 1&#39;s,price valid-until 2025-09-30 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/domstal-suspension-30ml-lui3uk-8271291,Domstal Suspension 30ml,price valid-until 2024-02-29 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/cefix-pineapple-dry-syrup-30ml-lz2tkw-8496603,CEFIX PINEAPPLE Dry Syrup 30ml,price valid-until 2026-07-04 already expired (stale listing)
+Netmeds,https://www.netmeds.com/product/dexorange-paediatric-syrup-60ml-lufue0-7514418,Dexorange Paediatric Syrup 60ml,price valid-until 2024-04-30 already expired (stale listing)
+PharmEasy,https://pharmeasy.in/online-medicine-order/azeewah-100mg-susp-129882,Azeewah 100Mg Suspension 15Ml,page last updated 2025-09-22 (older than 12 months)
+PharmEasy,https://pharmeasy.in/online-medicine-order/aziwok-100mg-bottle-of-7-5ml-suspension-36387,Aziwok 100Mg Bottle Of 7.5Ml Suspension,page last updated 2025-09-22 (older than 12 months)
+PharmEasy,https://pharmeasy.in/online-medicine-order/aziwok-stat-susp-60ml-36388,Aziwok Stat Suspension 60Ml,page last updated 2025-09-22 (older than 12 months)
+PharmEasy,https://pharmeasy.in/online-medicine-order/okacet-l-mixed-fruit-flavour-syrup-30ml-196309,Okacet L Mixed Fruit Flavour Syrup 30Ml,page last updated 2025-09-22 (older than 12 months)
+PharmEasy,https://pharmeasy.in/online-medicine-order/azee-500-mg-dry-syrup-15-ml-203643,Azee 500 Mg Dry Syrup 15 Ml,page last updated 2025-09-22 (older than 12 months)
+PharmEasy,https://pharmeasy.in/online-medicine-order/bifilac-gg-sugar-free-sachet-of-0-75gm-granules-pack-of-10--4162012,,fetch status 404
+PharmEasy,https://pharmeasy.in/online-medicine-order/benadryl-allergy-syrup-100-ml-201151,,fetch status 404
+PharmEasy,https://pharmeasy.in/online-medicine-order/zincovit-bottle-of-200ml-syrup-red--236261,,fetch status 404
+PharmEasy,https://pharmeasy.in/online-medicine-order/zincovit-cl-bottle-of-200ml-syrup-193990,,no product name parsed
+PharmEasy,https://pharmeasy.in/online-medicine-order/zincovit-bottle-of-200ml-syrup-green--3319,,no product name parsed
+PharmEasy,https://pharmeasy.in/online-medicine-order/benadryl-dr-syrup-100ml-15450,,fetch status 404
+PharmEasy,https://pharmeasy.in/online-medicine-order/austro-levocetirizine-2-5mg-bottle-of-60ml-syrup-4140981,Austro Levocetirizine 2.5Mg Bottle Of 60Ml Syrup,page last updated 2025-09-22 (older than 12 months)
+PharmEasy,https://pharmeasy.in/online-medicine-order/alex-l-bottle-of-100ml-suspension-3626306,Alex L Bottle Of 100Ml Suspension,page last updated 2025-09-22 (older than 12 months)
+PharmEasy,https://pharmeasy.in/online-medicine-order/calpol-sf-120-mg-infant-syrup-100-ml-3018558,Calpol 120Mg Strawberry Flavour Sugar Free Bottle Of 100Ml Suspension,page last updated 2025-09-22 (older than 12 months)
+PharmEasy,https://pharmeasy.in/online-medicine-order/ondem-of-4-mg-sachet-6-197897,Ondem Of 4 Mg Sachet 6,page last updated 2025-09-22 (older than 12 months)
+PharmEasy,https://pharmeasy.in/online-medicine-order/zifi-lb-100mg-redimix-syp-30ml-65115,Zifi Lb 100Mg Redimix Syrup 30Ml,page last updated 2025-09-22 (older than 12 months)
+PharmEasy,https://pharmeasy.in/online-medicine-order/zifi-lb-50mg-readymix-syp-30ml-65116,Zifi Lb 50Mg Readymix Syrup 30Ml,page last updated 2025-09-22 (older than 12 months)
+PharmEasy,https://pharmeasy.in/online-medicine-order/montair-bottle-of-30ml-dry-syrup-3057018,Montair Bottle Of 30Ml Dry Syrup,page last updated 2025-09-22 (older than 12 months)
+PharmEasy,https://pharmeasy.in/online-medicine-order/ascoril-flu-p-straw-sf-syrup-60ml-213757,Ascoril Flu P Straw Sf Syrup 60Ml,page last updated 2025-09-22 (older than 12 months)
+PharmEasy,https://pharmeasy.in/online-medicine-order/bandykind-plus-vet-susp-118862,Bandykind Plus Vet Suspension 30Ml,veterinary (pet) product - not human pediatric
+PharmEasy,https://pharmeasy.in/health-care/products/cremaffin-mint-constipation-syrup-bottle-of-200-ml-172801,,no product name parsed
+PharmEasy,https://pharmeasy.in/health-care/products/cremaffin-plus-refreshing-constipation-syrup-sugar-free-bottle-of-100-ml-212068,,no product name parsed
+PharmEasy,https://pharmeasy.in/health-care/products/cremaffin-constipation-relief-syrup-mixed-fruit-225ml-190721,,no product name parsed
+PharmEasy,https://pharmeasy.in/health-care/products/cremaffin-constipation-relief-syrup-mint-225ml-175750,,no product name parsed
+PharmEasy,https://pharmeasy.in/health-care/products/bifilac-gg-10-vanilla-flavour-sugar-free-sachet-of-1gm-granules-503585,,no product name parsed
+PharmEasy,https://pharmeasy.in/health-care/products/cremaffin-plain-syrup-200ml-209826,,no product name parsed
+PharmEasy,https://pharmeasy.in/health-care/products/cremaffin-mixed-fruit-pink-constipation-relief-syrup-bottle-of-450-ml-832,,no product name parsed
+PharmEasy,https://pharmeasy.in/health-care/products/zincovit-bottle-of-200ml-syrup-green--3319,,no product name parsed
